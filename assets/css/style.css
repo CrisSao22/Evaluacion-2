@@ -1,0 +1,14 @@
+body{
+    background-color: #ffffff;
+    color: black;
+}
+.header{
+    background-color: black;
+    color: #ffffff;
+    border-radius: 12px;
+}
+.section-portada{
+    background-color: black;
+    color: #ffffff;
+    border-radius: 12px;
+}
