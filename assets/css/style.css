@@ -1,14 +1,14 @@
-body{
-    background-color: #ffffff;
-    color: black;
+body {
+  font-family: 'Inter', sans-serif;
+  overflow-x: hidden;
 }
-.header{
-    background-color: black;
-    color: #ffffff;
-    border-radius: 12px;
+
+h1, h2, h3, .navbar-brand {
+  font-family: 'Montserrat', sans-serif;
 }
-.section-portada{
-    background-color: black;
-    color: #ffffff;
-    border-radius: 12px;
+
+.caja-oscuro {
+  background-color: #2b353b;
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
 }
